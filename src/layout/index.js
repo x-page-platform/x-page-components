@@ -1,3 +1,4 @@
+import Component from '../base/component';
 import template from './template.html';
 
 /**
@@ -10,7 +11,7 @@ import template from './template.html';
  *    children: Array<Object>  子元素配置
  * }
  */
-class Layout extends Component {
+export default class Layout extends Component {
   constructor(config) {
     super();
     this.template = template;
@@ -25,22 +26,21 @@ class Layout extends Component {
     this.parseChildren(config.children);
   }
 
-  setColumns(number) {
+  setColumns() {
 
   }
 
-  setWidth(width) {
+  setWidth() {
 
   }
 
-  setLeft(pos) {
+  setLeft() {
 
   }
 
-  setTop(pos) {
+  setTop() {
 
   }
-  
 
   setPosition() {
 
@@ -68,5 +68,6 @@ class Layout extends Component {
 
   render() {
     this.$el.html(this.template(this));
+    return this;
   }
 }
