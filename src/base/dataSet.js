@@ -1,36 +1,134 @@
 import EventEmitter from 'events';
-import DataSetManager from './dataSetManager';
 
 export class DataSet extends EventEmitter {
+  defaults() {
+    return {
+      autoCreate: true,
+      autoQuery: false,
+      pageSize: 10,
+      queryUrl: '',
+      selectable: false,
+      postUrl: '',
+      queryDataSet: null,
+      bindDataSet: null,
+      bindDataSetField: ''
+    };
+  }
+
   constructor(config) {
     super();
     this.data = config.data || {};
-    this.queryDataSet = DataSetManager.get(config.queryDataSet);
   }
 
-  set() {
+  /**
+   * add record
+   */
+  add() {
 
   }
 
-  get(field) {
-    this.data[field];
+  /**
+   * @param record
+   */
+  remove() {
+
   }
 
+  /**
+   * remove all record
+   */
+  removeAll() {
+
+  }
+
+  /**
+   * create record
+   * @return record
+   */
+  create() {
+
+  }
+
+  /**
+   * return current record
+   * @return record
+   */
   getCurrentRecord() {
 
   }
 
-  query() {
-    let params;
-    if (this.queryDataSet) {
-      params = this.queryDataSet.getCurrentRecord();
-    }
-    setTimeout(() => {
-      console.log(params);
-    }, 100);
+  /**
+   * locate index to record
+   * @param index
+   */
+  locate() {
+
   }
 
-  submit() {
+  /**
+   * @param columnName
+   * @param value
+   * @return record
+   */
+  find() {
+
+  }
+
+  /**
+   * @param page
+   */
+  goPage() {
+
+  }
+
+  /**
+   * query server data
+   */
+  query() {
+
+  }
+
+  /**
+   * post data to server
+   */
+  post() {
+
+  }
+
+  /**
+   * refresh
+   */
+  refresh() {
+
+  }
+
+  /**
+   * @param record
+   * select record
+   */
+  select() {
+
+  }
+
+  /**
+   * @param record
+   * unselect record
+   */
+  unSelect() {
+
+  }
+
+  /**
+   * un select all record
+   */
+  unSelectAll() {
+
+  }
+
+  /**
+   * get selected record
+   */
+  getSelected() {
 
   }
 }
