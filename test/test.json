@@ -1,0 +1,313 @@
+[
+    
+    {
+        "id" : 354325,
+        "title" : "王垠博客更新：《一个人的罢工》",
+        "url" : "http://www.v2ex.com/t/354325",
+        "content" : "http://www.yinwang.org/blog\u002Dcn/2017/04/11/strike\u000D\u000A\u000D\u000A我一直默默关注着王垠，觉得看王垠的博客是我灰暗人生中为数不多的快乐之一，他那么坚强那么自信，给了我勇气",
+        "content_rendered" : "\u003Cp\u003E\u003Ca href\u003D\u0022http://www.yinwang.org/blog\u002Dcn/2017/04/11/strike\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.yinwang.org/blog\u002Dcn/2017/04/11/strike\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E我一直默默关注着王垠，觉得看王垠的博客是我灰暗人生中为数不多的快乐之一，他那么坚强那么自信，给了我勇气\u003C/p\u003E\u000A",
+        "replies" : 122,
+        "member" : {
+            "id" : 189082,
+            "username" : "gouchaoer",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/58d5/5587/189082_mini.png?m=1480987620",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/58d5/5587/189082_normal.png?m=1480987620",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/58d5/5587/189082_large.png?m=1480987620"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 14965,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_mini.png?m=1491892342",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_normal.png?m=1491892342",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_large.png?m=1491892342"
+        },
+        "created" : 1491975147,
+        "last_modified" : 1491975287,
+        "last_touched" : 1492005527
+    },
+    
+    {
+        "id" : 354268,
+        "title" : "想回农村老家生活",
+        "url" : "http://www.v2ex.com/t/354268",
+        "content" : "## 背景\u000D\u000A\u000D\u000A目前在成都，有房有车有车贷（啃老），有老婆无小孩\u000D\u000A我在做 Linux 游戏运维，老婆是英文专业的，两个人收入加起来 12 k 的样子\u000D\u000A\u000D\u000A## 目前生活状态\u000D\u000A\u000D\u000A 两点一线，早上 7 点起床上班，晚上 20 点到家，基本上吃了饭，就洗洗睡了\u000D\u000A\u000D\u000A## 起因\u000D\u000A\u000D\u000A1.  成都环境、空气质量太差\u000D\u000A2.  太累，住龙潭寺，我在软件园 E 区上班，老婆在九眼桥\u000D\u000A    \u002D 每天花在上班的路上的时间在 2 小时的样子\u000D\u000A    \u002D 大部分是堵在路上，我从家到公司，不堵的情况下只要半小时左右(单边 27 KM)，实际上都是 1 小时左右\u000D\u000A \u000D\u000A3. 生活成本太高\u000D\u000A    \u002D 光在车上至少都是 1.5k ，我们俩做饭+带饭 一个月算下来不算贷款也要 3K 以上\u000D\u000A    \u002D  食材跟农村的比差得不是一点半点。。\u000D\u000A\u000D\u000A## 顾虑\u000D\u000A\u000D\u000A1. 回老家 没收入，特别是我，真心找不到工作，我老婆还可以去学校当老师\u000D\u000A2. 家里面肯定要反对",
+        "content_rendered" : "\u003Ch2\u003E背景\u003C/h2\u003E\u000A\u003Cp\u003E目前在成都，有房有车有车贷（啃老），有老婆无小孩\u000A我在做 Linux 游戏运维，老婆是英文专业的，两个人收入加起来 12 k 的样子\u003C/p\u003E\u000A\u003Ch2\u003E目前生活状态\u003C/h2\u003E\u000A\u003Cp\u003E两点一线，早上 7 点起床上班，晚上 20 点到家，基本上吃了饭，就洗洗睡了\u003C/p\u003E\u000A\u003Ch2\u003E起因\u003C/h2\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003E成都环境、空气质量太差\u003C/p\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003E太累，住龙潭寺，我在软件园 E 区上班，老婆在九眼桥\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E每天花在上班的路上的时间在 2 小时的样子\u003C/li\u003E\u000A\u003Cli\u003E大部分是堵在路上，我从家到公司，不堵的情况下只要半小时左右(单边 27 KM)，实际上都是 1 小时左右\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003C/li\u003E\u000A\u003Cli\u003E\u000A\u003Cp\u003E生活成本太高\u003C/p\u003E\u000A\u003Cul\u003E\u000A\u003Cli\u003E光在车上至少都是 1.5k ，我们俩做饭+带饭 一个月算下来不算贷款也要 3K 以上\u003C/li\u003E\u000A\u003Cli\u003E食材跟农村的比差得不是一点半点。。\u003C/li\u003E\u000A\u003C/ul\u003E\u000A\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u003Ch2\u003E顾虑\u003C/h2\u003E\u000A\u003Col\u003E\u000A\u003Cli\u003E回老家 没收入，特别是我，真心找不到工作，我老婆还可以去学校当老师\u003C/li\u003E\u000A\u003Cli\u003E家里面肯定要反对\u003C/li\u003E\u000A\u003C/ol\u003E\u000A",
+        "replies" : 111,
+        "member" : {
+            "id" : 13344,
+            "username" : "Ansen",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/d481/fbe5/13344_mini.png?m=1427277477",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/d481/fbe5/13344_normal.png?m=1427277477",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/d481/fbe5/13344_large.png?m=1427277477"
+        },
+        "node" : {
+            "id" : 59,
+            "name" : "random",
+            "title" : "随想",
+            "title_alternative" : "Random",
+            "url" : "http://www.v2ex.com/go/random",
+            "topics" : 1655,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/093f/65e0/59_mini.png?m=1431019484",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/093f/65e0/59_normal.png?m=1431019484",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/093f/65e0/59_large.png?m=1431019484"
+        },
+        "created" : 1491964066,
+        "last_modified" : 1491964066,
+        "last_touched" : 1492005854
+    },
+    
+    {
+        "id" : 354234,
+        "title" : "我能说前端程序员变懒了吗？",
+        "url" : "http://www.v2ex.com/t/354234",
+        "content" : "以前做个网站要好多背景图、小图标，现在都做扁平化了\u000D\u000A以前的首页很多模块，现在都做瀑布流了\u000D\u000A以前的频道页做的跟首页似的，现在的频道页做的跟列表页似的",
+        "content_rendered" : "以前做个网站要好多背景图、小图标，现在都做扁平化了\u000D\u003Cbr /\u003E以前的首页很多模块，现在都做瀑布流了\u000D\u003Cbr /\u003E以前的频道页做的跟首页似的，现在的频道页做的跟列表页似的",
+        "replies" : 68,
+        "member" : {
+            "id" : 155518,
+            "username" : "yruite",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/gravatar/3ed75f4579926b7aae5231c80462bbba?s=24&d=retro",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/gravatar/3ed75f4579926b7aae5231c80462bbba?s=48&d=retro",
+            "avatar_large" : "//v2ex.assets.uxengine.net/gravatar/3ed75f4579926b7aae5231c80462bbba?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 14965,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_mini.png?m=1491892342",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_normal.png?m=1491892342",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_large.png?m=1491892342"
+        },
+        "created" : 1491944621,
+        "last_modified" : 1491944647,
+        "last_touched" : 1492005878
+    },
+    
+    {
+        "id" : 354318,
+        "title" : "公司任务要紧，有偿求帮忙写 Python 简单验证码识别程序",
+        "url" : "http://www.v2ex.com/t/354318",
+        "content" : "![1.jpg]( https://ooo.0o0.ooo/2017/04/12/58edadc619302.jpg)\u000D\u000A![2.jpg]( https://ooo.0o0.ooo/2017/04/12/58edadc62689d.jpg)\u000D\u000A![3.jpg]( https://ooo.0o0.ooo/2017/04/12/58edadc640962.jpg)\u000D\u000A![4.jpg]( https://ooo.0o0.ooo/2017/04/12/58edadc6408f0.jpg)\u000D\u000A![5.jpg]( https://ooo.0o0.ooo/2017/04/12/58edadc65ce76.jpg)\u000D\u000A\u000D\u000A验证码，类似上面这样的，求帮忙写 Python 识别程序\u000D\u000A\u000D\u000A一点要求：尽量只用 PIL ，如果不是必须最好不要用 opencv ，运行在 Ubuntu16.04 上\u000D\u000A\u000D\u000A一点提示：验证码上的关键信息（数字）颜色几乎相同，可根据此快速去掉无用信息\u000D\u000A\u000D\u000A一千个验证码图片请在此下载， https://github.com/Jolly23/OnlineDocuments\u000D\u000A\u000D\u000A### 识别准确率大于 95%， 150 元求代码；大于 90%， 100 元求代码。\u000D\u000A\u000D\u000A联系微信： 903221074 ，感谢各位。自己忙别的实在没时间做。\u000D\u000A\u000D\u000A保证诚信，如果已经有人提交了，我会追加信息告诉大家，以防止浪费大家时间。愿意帮忙的也可以先加我微信",
+        "content_rendered" : "\u003Cp\u003E\u003Cimg alt\u003D\u00221.jpg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58edadc619302.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u00222.jpg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58edadc62689d.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u00223.jpg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58edadc640962.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u00224.jpg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58edadc6408f0.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u00225.jpg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58edadc65ce76.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E验证码，类似上面这样的，求帮忙写 Python 识别程序\u003C/p\u003E\u000A\u003Cp\u003E一点要求：尽量只用 PIL ，如果不是必须最好不要用 opencv ，运行在 Ubuntu16.04 上\u003C/p\u003E\u000A\u003Cp\u003E一点提示：验证码上的关键信息（数字）颜色几乎相同，可根据此快速去掉无用信息\u003C/p\u003E\u000A\u003Cp\u003E一千个验证码图片请在此下载， \u003Ca href\u003D\u0022https://github.com/Jolly23/OnlineDocuments\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/Jolly23/OnlineDocuments\u003C/a\u003E\u003C/p\u003E\u000A\u003Ch3\u003E识别准确率大于 95%， 150 元求代码；大于 90%， 100 元求代码。\u003C/h3\u003E\u000A\u003Cp\u003E联系微信： 903221074 ，感谢各位。自己忙别的实在没时间做。\u003C/p\u003E\u000A\u003Cp\u003E保证诚信，如果已经有人提交了，我会追加信息告诉大家，以防止浪费大家时间。愿意帮忙的也可以先加我微信\u003C/p\u003E\u000A",
+        "replies" : 60,
+        "member" : {
+            "id" : 220656,
+            "username" : "z903221074",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=24&d=retro",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=48&d=retro",
+            "avatar_large" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 84472,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_mini.png?m=1491892584",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_normal.png?m=1491892584",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_large.png?m=1491892584"
+        },
+        "created" : 1491972434,
+        "last_modified" : 1491972634,
+        "last_touched" : 1492002960
+    },
+    
+    {
+        "id" : 354381,
+        "title" : "分享一下公司规定，乐呵乐呵",
+        "url" : "http://www.v2ex.com/t/354381",
+        "content" : "年后公司就在出台各种规定，大部分都是很脑残的那种，本着独乐乐不如众乐乐的精神，分享一下今天新出的规定。\u000D\u000A\u000D\u000A夏天快到了，我也该准备准备走人了~\u000D\u000A\u000D\u000A![]( http://ww1.sinaimg.cn/large/b9e1e4d1ly1fejy4im2ioj20n008ugnz.jpg)\u000D\u000A![]( http://ww1.sinaimg.cn/large/b9e1e4d1ly1fejy4y14awj208q07gq4b.jpg)",
+        "content_rendered" : "\u003Cp\u003E年后公司就在出台各种规定，大部分都是很脑残的那种，本着独乐乐不如众乐乐的精神，分享一下今天新出的规定。\u003C/p\u003E\u000A\u003Cp\u003E夏天快到了，我也该准备准备走人了~\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://ww1.sinaimg.cn/large/b9e1e4d1ly1fejy4im2ioj20n008ugnz.jpg\u0022\u003E\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://ww1.sinaimg.cn/large/b9e1e4d1ly1fejy4y14awj208q07gq4b.jpg\u0022\u003E\u003C/p\u003E\u000A",
+        "replies" : 57,
+        "member" : {
+            "id" : 207800,
+            "username" : "Tifosi",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/b238/e2e0/207800_mini.png?m=1485054814",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/b238/e2e0/207800_normal.png?m=1485054814",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/b238/e2e0/207800_large.png?m=1485054814"
+        },
+        "node" : {
+            "id" : 770,
+            "name" : "career",
+            "title" : "职场话题",
+            "title_alternative" : "Career",
+            "url" : "http://www.v2ex.com/go/career",
+            "topics" : 2370,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/4ea0/6fbc/770_mini.png?m=1491814693",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/4ea0/6fbc/770_normal.png?m=1491814693",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/4ea0/6fbc/770_large.png?m=1491814693"
+        },
+        "created" : 1491984452,
+        "last_modified" : 1491984452,
+        "last_touched" : 1492005883
+    },
+    
+    {
+        "id" : 354357,
+        "title" : "各位都怎么加强营养增肥的？",
+        "url" : "http://www.v2ex.com/t/354357",
+        "content" : "这两天感觉头晕，去医院看了看，没想到颈椎居然没什么问题，就是低血糖加疲劳引起的！撸主不高π_π， 1 米 7 ， 46 公斤……有木有什么好办法长肉啊？要适当运动吗？因为从来不运动……",
+        "content_rendered" : "这两天感觉头晕，去医院看了看，没想到颈椎居然没什么问题，就是低血糖加疲劳引起的！撸主不高π_π， 1 米 7 ， 46 公斤……有木有什么好办法长肉啊？要适当运动吗？因为从来不运动……",
+        "replies" : 56,
+        "member" : {
+            "id" : 199575,
+            "username" : "daolin998",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/e76a/6064/199575_mini.png?m=1478161328",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/e76a/6064/199575_normal.png?m=1478161328",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/e76a/6064/199575_large.png?m=1478161328"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 84472,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_mini.png?m=1491892584",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_normal.png?m=1491892584",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/c20a/d4d7/12_large.png?m=1491892584"
+        },
+        "created" : 1491980448,
+        "last_modified" : 1491980448,
+        "last_touched" : 1492002580
+    },
+    
+    {
+        "id" : 354457,
+        "title" : "因为中午发了一帖，求人帮忙写验证码识别，被骂了一通，然后又被人搞掉一下午时间，付了钱也没拿到能用的代码。对在 V2EX 这神奇的经历感到非常遗憾，非常想记录下来。",
+        "url" : "http://www.v2ex.com/t/354457",
+        "content" : "## 首先，骂我也好，我来描述一下从中午开始发生的事情。\u000D\u000A\u000D\u000A学生，最近几天在准备即将到来的很重要考试，昨晚却收到任务要写一个网站的爬虫。嗯，忽略任务。\u000D\u000A\u000D\u000A今天上午被打电话催了一遍，看来也挺要紧的，打开目标网站看了下，登陆需要验证码，内部拿数据不难。\u000D\u000A\u000D\u000A我写代码的风格，就是对于自己不会的，赶紧上 Google 或者 Github 找代码搞过来用，花了一点时间，没搞定，心里却想着考试，真的挺重要的，就不写了。\u000D\u000A\u000D\u000A正做着模拟题，灵机一动想到要不直接去买代码，即省时间，又能直接对应着不修改就用，非常合适。\u000D\u000A\u000D\u000A赶紧跑到 V2EX 上发一帖， https://www.v2ex.com/t/354318 \u000D\u000A\u000D\u000A哦哦，对了，顺便学了个 Shell 新技能给大家分享下：\u000D\u000A\u000D\u000A```python\u000D\u000Afor k in $( seq 1 1000 )\u000D\u000A\u0009echo ${k}\u000D\u000A```\u000D\u000A\u000D\u000A这样就可以在 Shell 中执行循环了，可以用这个结合 wget \u002DO 参数来瞬间下载很多验证码，嗯，是不是很好用？\u000D\u000A\u000D\u000A\u000D\u000A好了，赶紧回到主题，我发那个帖子，考虑了下自己经济能力，又考虑下自己如果花时间用心写，一步一步跟着网上已有的指导做，还是能做出来的，按道理不会花很久。就`自以为是`的写上了（ 100\u002D150 ）的报酬，然而没想到，这个价格会成为被鄙视的根源。\u000D\u000A\u000D\u000A的确，我给的这个价格，对此论坛在坐的程序员来说，太少了。\u000D\u000A\u000D\u000A真心认真求帮助，换来很多带歧视意味的回复。心里也有点失落和难受，根源应该是那个价格吧，我认为。\u000D\u000A\u000D\u000A正如 @zzcchh 说的，最好就不要提钱，也许大家会集思广益来帮这个忙，但是正因为提了`钱`，让很多看帖的人感受到了受鄙视的感觉。但其实，我作为一个学生，成为像论坛里很多人一样厉害的程序员，也是我的梦想，没什么本事的我怎敢鄙视素不相识的人。\u000D\u000A\u000D\u000A被很多人那样回复了以后，我打算放弃这个计划，还是靠自己写吧，感谢了一下帖子内提供帮助信息的朋友。\u000D\u000A\u000D\u000A却发现，，， V2EX 并不能删帖。。。\u000D\u000A\u000D\u000A好吧，赶紧补个 append ，想让这一切回归平静。\u000D\u000A\u000D\u000A# 当然，与上述的故事发生的同时，另一条故事线也在展开着\u000D\u000A\u000D\u000A## 在我写 append 的同时，一个微信好友请求让我非常激动，随加之。\u000D\u000A\u000D\u000A![Screen.png]( https://ooo.0o0.ooo/2017/04/12/58ee096d7f066.png)\u000D\u000A![Scre.png]( https://ooo.0o0.ooo/2017/04/12/58ee0af81061d.png)\u000D\u000A![Scree.png]( https://ooo.0o0.ooo/2017/04/12/58ee09d570a90.png)\u000D\u000A\u000D\u000A一看，靠谱啊， 99%成功率，用上深度学习出来的模块，完美的满足了那个工程的需求（不引入大型外部库，尽量使用 PIL ）。\u000D\u000A\u000D\u000A行，本来我在帖子里被骂了以后自己也觉得 100 多元太少，还是愿意给加钱的（如果有非常好的东西，何乐而不为？），便满怀激动的有了如上的对话。\u000D\u000A\u000D\u000A附上知乎的展示内容 http://www.zhihu.com/question/22479139/answer/120141781 哇，效果真的不错，很显然，我对于这个作品感到眼前一亮，非常想要使用，觉得值得为人家的工作多付一些钱。当然，买他的深度学习训练源码那肯定不够。但确实不能付出时间。\u000D\u000A![Screen 8.png]( https://ooo.0o0.ooo/2017/04/12/58ee0d7b6e313.png)\u000D\u000A![Scr.png]( https://ooo.0o0.ooo/2017/04/12/58ee0c062a6ef.png)\u000D\u000A![Sc9.16.53.png]( https://ooo.0o0.ooo/2017/04/12/58ee0d7b2b60f.png)\u000D\u000A![Screen 19.16.26.png]( https://ooo.0o0.ooo/2017/04/12/58ee0d7b39107.png)\u000D\u000A\u000D\u000A\u000D\u000A# 经历过讨价还价， 300 成交了，他去忙着标记了，我 也开始 TPO 阅读了。\u000D\u000A\u000D\u000A半小时后， tpo 做到第二篇，为了适应考试，不应该中途退出。但是人家做完了，叫我了。\u000D\u000A\u000D\u000A怀着`代码采用 Python 实现，对常见验证码的识别率达到 99%以上，速度可以满足工业化需求，总体效果能与国内外各知名公司的开源 OCR 程序抗衡`，`预处理的目的是将 95%的识别率提高到 99%，也就是说不采用任何预处理直接运行我的代码可以达到 95%的识别率`， `我的程序对常用验证码的识别率已经达到了 99%以上，满足绝大多数工业化要求，所以暂时并不打算再做提升` 这样令人激动的产品描述，我激动的打开他发来的测试图，考试的计时器还在运转，`我扫了几眼，感觉全对了，迅速付款，准备一会儿做完考试题就赶紧上工业级的代码`，而没想到，这，却为自己埋下了坑。\u000D\u000A\u000D\u000A\u000D\u000A![WechatIMG33.jpeg]( https://ooo.0o0.ooo/2017/04/12/58ee1119dc4df.jpeg)\u000D\u000A付款加上提现手续费，是我认为的正常的微信转账对别人劳动的尊重\u000D\u000A\u000D\u000A![WechatIMG32.jpeg]( https://ooo.0o0.ooo/2017/04/12/58ee111a7ef12.jpeg)\u000D\u000A## 而其实，此图中验证码的准确率只有，，，可怜的 60%。。。和知乎上说的不是一回儿事儿。\u000D\u000A\u000D\u000A## 做完了第二篇阅读，本来是还有一篇的，但我相信论坛中的各位大神也都能理解学生时代对代码的激动，我心没法静下来，决定去看代码。\u000D\u000A\u000D\u000A于是乎，如下\u000D\u000A\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.40.19.png]( https://ooo.0o0.ooo/2017/04/12/58ee12442cce5.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.40.31.png]( https://ooo.0o0.ooo/2017/04/12/58ee124432a42.png)\u000D\u000A\u000D\u000A# 后来，发现是一些包的版本不对，实际结果没这么惨，达到 50%了\u000D\u000A\u000D\u000A## 参照我想要的代码，这显然是不满足要求的\u000D\u000A\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.57.00.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f28ea9b.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.57.32.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f289428.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.59.09.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f2727eb.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.57.12.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f23f2db.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.58.04.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f21c0d5.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.58.36.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f2139af.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.59.20.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f209e53.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.57.48.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f1c7875.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.58.25.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f1a7ca1.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.58.53.png]( https://ooo.0o0.ooo/2017/04/12/58ee16f0e6658.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.59.57.png]( https://ooo.0o0.ooo/2017/04/12/58ee175a598e4.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 19.59.42.png]( https://ooo.0o0.ooo/2017/04/12/58ee175a51d10.png)\u000D\u000A![Screen Shot 2017\u002D04\u002D12 at 20.00.06.png]( https://ooo.0o0.ooo/2017/04/12/58ee175a18198.png)\u000D\u000A\u000D\u000A## https://lujq.me/about/ https://github.com/golmic\u000D\u000A\u000D\u000A# 又有了如上神奇的对话，我也是很无语的。不过我感觉，作为一个在 V2EX 上没什么实力，并且刚在另一个帖子被骂了一遍的我，还会在这个帖子中被骂一遍的。钱已经要不回来了，人家什么方案都不接受，并且保持沉默了。东西啥也没有，时间还消耗掉了整个下午和晚上。`这当然算得上一次奇妙的经历！`人家是数据爬取工程师，我菜我小白，站在他那一边的人当然多了，所以我认为我发完这个帖子还是会被再骂一遍的，不过，无所谓了，记录一下今天的事儿，今天的感受。\u000D\u000A\u000D\u000A## 文笔很差，不善言表， MarkDown 用的还不好，多包涵\u000D\u000A\u000D\u000A# 祝大家即将到来的周末愉快",
+        "content_rendered" : "\u003Ch2\u003E首先，骂我也好，我来描述一下从中午开始发生的事情。\u003C/h2\u003E\u000A\u003Cp\u003E学生，最近几天在准备即将到来的很重要考试，昨晚却收到任务要写一个网站的爬虫。嗯，忽略任务。\u003C/p\u003E\u000A\u003Cp\u003E今天上午被打电话催了一遍，看来也挺要紧的，打开目标网站看了下，登陆需要验证码，内部拿数据不难。\u003C/p\u003E\u000A\u003Cp\u003E我写代码的风格，就是对于自己不会的，赶紧上 Google 或者 Github 找代码搞过来用，花了一点时间，没搞定，心里却想着考试，真的挺重要的，就不写了。\u003C/p\u003E\u000A\u003Cp\u003E正做着模拟题，灵机一动想到要不直接去买代码，即省时间，又能直接对应着不修改就用，非常合适。\u003C/p\u003E\u000A\u003Cp\u003E赶紧跑到 V2EX 上发一帖， \u003Ca href\u003D\u0022https://www.v2ex.com/t/354318\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.v2ex.com/t/354318\u003C/a\u003E\u003C/p\u003E\u000A\u003Cp\u003E哦哦，对了，顺便学了个 Shell 新技能给大家分享下：\u003C/p\u003E\u000A\u003Cpre\u003E\u003Ccode\u003Efor k in $( seq 1 1000 )\u000A\u0009echo ${k}\u000A\u003C/code\u003E\u003C/pre\u003E\u000A\u003Cp\u003E这样就可以在 Shell 中执行循环了，可以用这个结合 wget \u002DO 参数来瞬间下载很多验证码，嗯，是不是很好用？\u003C/p\u003E\u000A\u003Cp\u003E好了，赶紧回到主题，我发那个帖子，考虑了下自己经济能力，又考虑下自己如果花时间用心写，一步一步跟着网上已有的指导做，还是能做出来的，按道理不会花很久。就\u003Ccode\u003E自以为是\u003C/code\u003E的写上了（ 100\u002D150 ）的报酬，然而没想到，这个价格会成为被鄙视的根源。\u003C/p\u003E\u000A\u003Cp\u003E的确，我给的这个价格，对此论坛在坐的程序员来说，太少了。\u003C/p\u003E\u000A\u003Cp\u003E真心认真求帮助，换来很多带歧视意味的回复。心里也有点失落和难受，根源应该是那个价格吧，我认为。\u003C/p\u003E\u000A\u003Cp\u003E正如 @zzcchh 说的，最好就不要提钱，也许大家会集思广益来帮这个忙，但是正因为提了\u003Ccode\u003E钱\u003C/code\u003E，让很多看帖的人感受到了受鄙视的感觉。但其实，我作为一个学生，成为像论坛里很多人一样厉害的程序员，也是我的梦想，没什么本事的我怎敢鄙视素不相识的人。\u003C/p\u003E\u000A\u003Cp\u003E被很多人那样回复了以后，我打算放弃这个计划，还是靠自己写吧，感谢了一下帖子内提供帮助信息的朋友。\u003C/p\u003E\u000A\u003Cp\u003E却发现，，， V2EX 并不能删帖。。。\u003C/p\u003E\u000A\u003Cp\u003E好吧，赶紧补个 append ，想让这一切回归平静。\u003C/p\u003E\u000A\u003Ch1\u003E当然，与上述的故事发生的同时，另一条故事线也在展开着\u003C/h1\u003E\u000A\u003Ch2\u003E在我写 append 的同时，一个微信好友请求让我非常激动，随加之。\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Screen.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee096d7f066.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Scre.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee0af81061d.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Scree.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee09d570a90.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E一看，靠谱啊， 99%成功率，用上深度学习出来的模块，完美的满足了那个工程的需求（不引入大型外部库，尽量使用 PIL ）。\u003C/p\u003E\u000A\u003Cp\u003E行，本来我在帖子里被骂了以后自己也觉得 100 多元太少，还是愿意给加钱的（如果有非常好的东西，何乐而不为？），便满怀激动的有了如上的对话。\u003C/p\u003E\u000A\u003Cp\u003E附上知乎的展示内容 \u003Ca href\u003D\u0022http://www.zhihu.com/question/22479139/answer/120141781\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.zhihu.com/question/22479139/answer/120141781\u003C/a\u003E 哇，效果真的不错，很显然，我对于这个作品感到眼前一亮，非常想要使用，觉得值得为人家的工作多付一些钱。当然，买他的深度学习训练源码那肯定不够。但确实不能付出时间。\u000A\u003Cimg alt\u003D\u0022Screen 8.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee0d7b6e313.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Scr.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee0c062a6ef.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Sc9.16.53.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee0d7b2b60f.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen 19.16.26.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee0d7b39107.png\u0022\u003E\u003C/p\u003E\u000A\u003Ch1\u003E经历过讨价还价， 300 成交了，他去忙着标记了，我 也开始 TPO 阅读了。\u003C/h1\u003E\u000A\u003Cp\u003E半小时后， tpo 做到第二篇，为了适应考试，不应该中途退出。但是人家做完了，叫我了。\u003C/p\u003E\u000A\u003Cp\u003E怀着\u003Ccode\u003E代码采用 Python 实现，对常见验证码的识别率达到 99%以上，速度可以满足工业化需求，总体效果能与国内外各知名公司的开源 OCR 程序抗衡\u003C/code\u003E，\u003Ccode\u003E预处理的目的是将 95%的识别率提高到 99%，也就是说不采用任何预处理直接运行我的代码可以达到 95%的识别率\u003C/code\u003E， \u003Ccode\u003E我的程序对常用验证码的识别率已经达到了 99%以上，满足绝大多数工业化要求，所以暂时并不打算再做提升\u003C/code\u003E 这样令人激动的产品描述，我激动的打开他发来的测试图，考试的计时器还在运转，\u003Ccode\u003E我扫了几眼，感觉全对了，迅速付款，准备一会儿做完考试题就赶紧上工业级的代码\u003C/code\u003E，而没想到，这，却为自己埋下了坑。\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022WechatIMG33.jpeg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee1119dc4df.jpeg\u0022\u003E\u000A付款加上提现手续费，是我认为的正常的微信转账对别人劳动的尊重\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022WechatIMG32.jpeg\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee111a7ef12.jpeg\u0022\u003E\u003C/p\u003E\u000A\u003Ch2\u003E而其实，此图中验证码的准确率只有，，，可怜的 60%。。。和知乎上说的不是一回儿事儿。\u003C/h2\u003E\u000A\u003Ch2\u003E做完了第二篇阅读，本来是还有一篇的，但我相信论坛中的各位大神也都能理解学生时代对代码的激动，我心没法静下来，决定去看代码。\u003C/h2\u003E\u000A\u003Cp\u003E于是乎，如下\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.40.19.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee12442cce5.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.40.31.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee124432a42.png\u0022\u003E\u003C/p\u003E\u000A\u003Ch1\u003E后来，发现是一些包的版本不对，实际结果没这么惨，达到 50%了\u003C/h1\u003E\u000A\u003Ch2\u003E参照我想要的代码，这显然是不满足要求的\u003C/h2\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.57.00.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f28ea9b.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.57.32.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f289428.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.59.09.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f2727eb.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.57.12.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f23f2db.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.58.04.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f21c0d5.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.58.36.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f2139af.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.59.20.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f209e53.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.57.48.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f1c7875.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.58.25.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f1a7ca1.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.58.53.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee16f0e6658.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.59.57.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee175a598e4.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 19.59.42.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee175a51d10.png\u0022\u003E\u000A\u003Cimg alt\u003D\u0022Screen Shot 2017\u002D04\u002D12 at 20.00.06.png\u0022 src\u003D\u0022https://ooo.0o0.ooo/2017/04/12/58ee175a18198.png\u0022\u003E\u003C/p\u003E\u000A\u003Ch2\u003E\u003Ca href\u003D\u0022https://lujq.me/about/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://lujq.me/about/\u003C/a\u003E \u003Ca href\u003D\u0022https://github.com/golmic\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://github.com/golmic\u003C/a\u003E\u003C/h2\u003E\u000A\u003Ch1\u003E又有了如上神奇的对话，我也是很无语的。不过我感觉，作为一个在 V2EX 上没什么实力，并且刚在另一个帖子被骂了一遍的我，还会在这个帖子中被骂一遍的。钱已经要不回来了，人家什么方案都不接受，并且保持沉默了。东西啥也没有，时间还消耗掉了整个下午和晚上。\u003Ccode\u003E这当然算得上一次奇妙的经历！\u003C/code\u003E人家是数据爬取工程师，我菜我小白，站在他那一边的人当然多了，所以我认为我发完这个帖子还是会被再骂一遍的，不过，无所谓了，记录一下今天的事儿，今天的感受。\u003C/h1\u003E\u000A\u003Ch2\u003E文笔很差，不善言表， MarkDown 用的还不好，多包涵\u003C/h2\u003E\u000A\u003Ch1\u003E祝大家即将到来的周末愉快\u003C/h1\u003E\u000A",
+        "replies" : 44,
+        "member" : {
+            "id" : 220656,
+            "username" : "z903221074",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=24&d=retro",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=48&d=retro",
+            "avatar_large" : "//v2ex.assets.uxengine.net/gravatar/db30a554e590c66bc332d70a1b281a66?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 21536,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/c74d/97b0/16_mini.png?m=1491892599",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/c74d/97b0/16_normal.png?m=1491892599",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/c74d/97b0/16_large.png?m=1491892599"
+        },
+        "created" : 1491999907,
+        "last_modified" : 1491999907,
+        "last_touched" : 1492005947
+    },
+    
+    {
+        "id" : 354349,
+        "title" : "MacXDVD 复活节软件抽奖，已抽中！",
+        "url" : "http://www.v2ex.com/t/354349",
+        "content" : "MacXDVD 软件抽奖，软件有 MacX MediaTrans ， PDF Expert ， DiskDrill Pro ， MacX DVD Ripper Pro\u000D\u000A\u000D\u000A![]( http://ww4.sinaimg.cn/large/006HJ39wgy1fejvluoonnj31kw0p1e81.jpg)\u000D\u000A\u000D\u000A\u000D\u000A时间是： 2017 年 4 月 10 日\u002D2017 年 4 月 19 日\u000D\u000A每人每天 3 次抽奖机会，分享 fb 加两次机会。\u000D\u000A\u000D\u000A\u002D\u002D\u002D\u000D\u000A我已经抽到了 PDF Expert 和 DiskDrill Pro~开心， V 友们快去尝试\u000D\u000A![]( http://ww3.sinaimg.cn/large/006HJ39wgy1fejvn9kfu1j31kw03u0up.jpg)\u000D\u000A\u000D\u000A感谢1楼补充链接，有点激动，忘了。\u000D\u000A链接是： https://www.macxdvd.com/giveaway/giveaway.htm",
+        "content_rendered" : "\u003Cp\u003EMacXDVD 软件抽奖，软件有 MacX MediaTrans ， PDF Expert ， DiskDrill Pro ， MacX DVD Ripper Pro\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://ww4.sinaimg.cn/large/006HJ39wgy1fejvluoonnj31kw0p1e81.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E时间是： 2017 年 4 月 10 日\u002D2017 年 4 月 19 日\u000A每人每天 3 次抽奖机会，分享 fb 加两次机会。\u003C/p\u003E\u000A\u003Chr\u003E\u000A\u003Cp\u003E我已经抽到了 PDF Expert 和 DiskDrill Pro~开心， V 友们快去尝试\u000A\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://ww3.sinaimg.cn/large/006HJ39wgy1fejvn9kfu1j31kw03u0up.jpg\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E感谢1楼补充链接，有点激动，忘了。\u000A链接是： \u003Ca href\u003D\u0022https://www.macxdvd.com/giveaway/giveaway.htm\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://www.macxdvd.com/giveaway/giveaway.htm\u003C/a\u003E\u003C/p\u003E\u000A",
+        "replies" : 40,
+        "member" : {
+            "id" : 98574,
+            "username" : "frinstioAKL",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/gravatar/a9a0543db0ea327159349c8a685eb41f?s=24&d=retro",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/gravatar/a9a0543db0ea327159349c8a685eb41f?s=48&d=retro",
+            "avatar_large" : "//v2ex.assets.uxengine.net/gravatar/a9a0543db0ea327159349c8a685eb41f?s=73&d=retro"
+        },
+        "node" : {
+            "id" : 22,
+            "name" : "macos",
+            "title" : "macOS",
+            "title_alternative" : "macOS",
+            "url" : "http://www.v2ex.com/go/macos",
+            "topics" : 9970,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/b6d7/67d2/22_mini.png?m=1491814782",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/b6d7/67d2/22_normal.png?m=1491814782",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/b6d7/67d2/22_large.png?m=1491814782"
+        },
+        "created" : 1491978400,
+        "last_modified" : 1491978894,
+        "last_touched" : 1492005505
+    },
+    
+    {
+        "id" : 354406,
+        "title" : "CSDN 某位产品经理是吃了翔吗？",
+        "url" : "http://www.v2ex.com/t/354406",
+        "content" : "本来我是放弃 CSDN 很多年的，同事说要借我账号下载一个文件，还有很多积分没有用完。\u000D\u000A\u000D\u000A登录需要用户进行手机号验证，验证就验证吧，这家伙居然要用户发送上行短信验证，倒不是缺这 1 毛 2 毛钱，这样直接把成本嫁接给用户真的好吗？\u000D\u000A\u000D\u000A![]( http://i4.buimg.com/567571/dedfd206d33aa7ea.png)\u000D\u000A\u000D\u000A只能暗想 CSDN 某位产品经理真是吃了翔！",
+        "content_rendered" : "\u003Cp\u003E本来我是放弃 CSDN 很多年的，同事说要借我账号下载一个文件，还有很多积分没有用完。\u003C/p\u003E\u000A\u003Cp\u003E登录需要用户进行手机号验证，验证就验证吧，这家伙居然要用户发送上行短信验证，倒不是缺这 1 毛 2 毛钱，这样直接把成本嫁接给用户真的好吗？\u003C/p\u003E\u000A\u003Cp\u003E\u003Cimg alt\u003D\u0022\u0022 src\u003D\u0022http://i4.buimg.com/567571/dedfd206d33aa7ea.png\u0022\u003E\u003C/p\u003E\u000A\u003Cp\u003E只能暗想 CSDN 某位产品经理真是吃了翔！\u003C/p\u003E\u000A",
+        "replies" : 40,
+        "member" : {
+            "id" : 61346,
+            "username" : "liaowu",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/ce26/b8b9/61346_mini.png?m=1471235865",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/ce26/b8b9/61346_normal.png?m=1471235865",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/ce26/b8b9/61346_large.png?m=1471235865"
+        },
+        "node" : {
+            "id" : 300,
+            "name" : "programmer",
+            "title" : "程序员",
+            "title_alternative" : "Programmer",
+            "url" : "http://www.v2ex.com/go/programmer",
+            "topics" : 14965,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_mini.png?m=1491892342",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_normal.png?m=1491892342",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/94f6/d7e0/300_large.png?m=1491892342"
+        },
+        "created" : 1491987758,
+        "last_modified" : 1491987907,
+        "last_touched" : 1492005004
+    },
+    
+    {
+        "id" : 354329,
+        "title" : "貌似发现了免费上行提速至 20M 的办法 地标广东",
+        "url" : "http://www.v2ex.com/t/354329",
+        "content" : "家中 200M 带宽  上行分配的是 4M 偶然一个机会测试到有方法可以临时提速上行到 20M\u000D\u000A\u000D\u000A是临时  提速大概有效 30 分钟。 可以重复提速。 暂时不收费\u000D\u000A\u000D\u000A不知道公布出来会不会被电信自家和谐掉 或者阉割掉。。。\u000D\u000A\u000D\u000A看大家的意思\u000D\u000A\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/large/6db7438dgy1feju3ic23tj20lf02tq3f.jpg\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/large/6db7438dgy1fejtnj3wyqj208c030wec.jpg\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/large/6db7438dgy1fejtof8wf9j20fh08bwg1.jpg\u000D\u000A\u000D\u000Ahttp://ww2.sinaimg.cn/large/6db7438dgy1feju2jlpzyj20oq0avq3h.jpg\u000D\u000A\u000D\u000A telegram 宽带症候群 https://t.me/joinchat/AAAAAAzqRbG_2\u002DyvXf2E7A",
+        "content_rendered" : "家中 200M 带宽  上行分配的是 4M 偶然一个机会测试到有方法可以临时提速上行到 20M\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E是临时  提速大概有效 30 分钟。 可以重复提速。 暂时不收费\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E不知道公布出来会不会被电信自家和谐掉 或者阉割掉。。。\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E看大家的意思\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/6db7438dgy1feju3ic23tj20lf02tq3f.jpg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/6db7438dgy1fejtnj3wyqj208c030wec.jpg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/6db7438dgy1fejtof8wf9j20fh08bwg1.jpg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E\u003Cimg src\u003D\u0022http://ww2.sinaimg.cn/large/6db7438dgy1feju2jlpzyj20oq0avq3h.jpg\u0022 class\u003D\u0022embedded_image\u0022 /\u003E \u000D\u003Cbr /\u003E\u000D\u003Cbr /\u003E telegram 宽带症候群 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022https://t.me/joinchat/AAAAAAzqRbG_2\u002DyvXf2E7A\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttps://t.me/joinchat/AAAAAAzqRbG_2\u002DyvXf2E7A\u003C/a\u003E",
+        "replies" : 31,
+        "member" : {
+            "id" : 85472,
+            "username" : "dingzi",
+            "tagline" : "",
+            "avatar_mini" : "//v2ex.assets.uxengine.net/avatar/18e8/9ec0/85472_mini.png?m=1431938120",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/avatar/18e8/9ec0/85472_normal.png?m=1431938120",
+            "avatar_large" : "//v2ex.assets.uxengine.net/avatar/18e8/9ec0/85472_large.png?m=1431938120"
+        },
+        "node" : {
+            "id" : 108,
+            "name" : "bb",
+            "title" : "宽带症候群",
+            "title_alternative" : "Broadband Symptom Complex",
+            "url" : "http://www.v2ex.com/go/bb",
+            "topics" : 2616,
+            "avatar_mini" : "//v2ex.assets.uxengine.net/navatar/a3c6/5c29/108_mini.png?m=1491799771",
+            "avatar_normal" : "//v2ex.assets.uxengine.net/navatar/a3c6/5c29/108_normal.png?m=1491799771",
+            "avatar_large" : "//v2ex.assets.uxengine.net/navatar/a3c6/5c29/108_large.png?m=1491799771"
+        },
+        "created" : 1491975438,
+        "last_modified" : 1491975438,
+        "last_touched" : 1492003359
+    }
+    
+]
