@@ -3,6 +3,11 @@ import defaults from 'lodash/defaults';
 import assign from 'lodash/assign';
 import axios from 'axios';
 
+let _uuid = 0;
+function uuid() {
+  return _uuid++;
+}
+
 let cache = {};
 
 export class Record extends EventEmitter {
@@ -49,6 +54,26 @@ export default class DataSet extends EventEmitter {
     this.records = [];
     // 绑定的组件
     this.bindCmps = [];
+
+    // add this to cache
+    this.id = config.id || uuid();
+    if (cache[this.id]) {
+      throw new Error(`dataset id has been created, id: ${this.id}`);
+    } else {
+      cache[this.id] = this;
+    }
+
+    if (config.bindDataSet) {
+      this.config.bindDataSet = cache[config.bindDataSet];
+    }
+
+    if (config.queryDataSet) {
+      this.config.queryDataSet = cache[config.queryDataSet];
+    }
+
+    if (config.data) {
+      this.create();
+    }
   }
 
   /**
@@ -92,6 +117,10 @@ export default class DataSet extends EventEmitter {
     return this.records[this.index];
   }
 
+  getCurrentJson() {
+    return this.getCurrentRecord().data;
+  }
+
   /**
    * locate index to record
    * @param index
@@ -125,7 +154,7 @@ export default class DataSet extends EventEmitter {
 
   prepareQueryParams() {
     let params = {};
-    const { bindDataSet, bindDataSetField, queryDataSet, autoPage, pageSize } = this.config.bindDataSetField;
+    const { bindDataSet, bindDataSetField, queryDataSet, autoPage, pageSize } = this.config;
     if (queryDataSet) {
       assign(params, queryDataSet.getCurrentJson());
     }
@@ -138,16 +167,23 @@ export default class DataSet extends EventEmitter {
     return params;
   }
 
+  preparePostData() {
+    return this.getCurrentJson();
+  }
+
   /**
    * query server data
    */
   query() {
     this.emit('beforeAjax');
     let params = this.prepareQueryParams();
+
     axios.get(this.config.queryUrl, {
       params
     }).then(response => {
-      console.log(response);
+      if (response.status === 200) {
+        console.log(response.data);
+      }
     }).catch((e) => {
       console.log(e);
     });
@@ -158,6 +194,14 @@ export default class DataSet extends EventEmitter {
    */
   post() {
     this.emit('beforeAjax');
+    let data = this.preparePostData();
+    axios.post(this.config.postUrl, data)
+      .then(response => {
+        console.log(response);
+      })
+      .catch(e => {
+        console.log(e);
+      });
   }
 
   /**
@@ -203,9 +247,4 @@ export default class DataSet extends EventEmitter {
   destory() {
 
   }
-}
-
-let _uuid = 0;
-function uuid() {
-  return _uuid++;
 }

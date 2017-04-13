@@ -9,11 +9,21 @@
 <body>
   <script src="../dist/XPage.js"></script>
   <script>
-    var ds = new XPage.DataSet({
+    var ds1 = new XPage.DataSet({
+      id: 'xxxx',
+      data: {
+        xxx: 000
+      },
+      postUrl: '/test/test.json'
+    })
+
+    var ds2 = new XPage.DataSet({
+      queryDataSet: 'xxxx',
       queryUrl: '/test/test.json'
     });
 
-    ds.query();
+    ds2.query();
+    ds1.post();
   </script>
 </body>
 </html>
